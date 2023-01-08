@@ -14,7 +14,6 @@ I will use web scraping to obtain financial data. I will extract historical stoc
 - Plotly plots are not supported on GitHub, so I have inserted the images here:
 
 - **Plot Tesla Stock Graph**
-
 ```make_graph(tesla_data, tesla_revenue, 'Tesla')```
 ![Plot Tesla Stock Graph](img/tesla.png)
 
