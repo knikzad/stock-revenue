@@ -10,4 +10,14 @@ I will use a Python library to obtain financial data. I will extract historical 
 I will use web scraping to obtain financial data. I will extract historical stock data from a web page using the python beautiful soup web scraping library.
 
 ### Dashboard Analytics Displayed
-A dashboard often provides a view of key performance indicators in a clear way. Analyzing a data set and extracting key performance indicators will be practiced. Prompts will be used to support learning in accessing and displaying data in dashboards. Learning how to display key performance indicators on a dashboard will be included in this assignment. We will be using Plotly in this course for data visualization and is not a requirement to take this course.
+- A dashboard often provides a view of key performance indicators in a clear way. Analyzing a data set and extracting key performance indicators will be practiced. Prompts will be used to support learning in accessing and displaying data in dashboards. Learning how to display key performance indicators on a dashboard will be included in this assignment. We will be using Plotly in this course for data visualization and is not a requirement to take this course.
+- As GitHub doesn't support interactive Plotly plots I insert the images here:
+- Plot Tesla Stock Graph
+
+```make_graph(tesla_data, tesla_revenue, 'Tesla')```
+[Plot Tesla Stock Graph](img/tesla.png)
+
+- Plot GameStop Stock Graph
+```make_graph(gme_data, gme_revenue, 'GameStop')```
+[Plot GameStop Stock Graph](img/gamestop.png)
+
