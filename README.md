@@ -15,6 +15,7 @@ I will use web scraping to obtain financial data. I will extract historical stoc
     - **Plot Tesla Stock Graph**
 ```make_graph(tesla_data, tesla_revenue, 'Tesla')```
 ![Plot Tesla Stock Graph](img/tesla.png)
+<hr>
     - **Plot GameStop Stock Graph** ```make_graph(gme_data, gme_revenue, 'GameStop')```
 ![Plot GameStop Stock Graph](img/gamestop.png)
 
